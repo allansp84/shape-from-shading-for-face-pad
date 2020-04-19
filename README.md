@@ -30,7 +30,7 @@ To download this software, please execute the following command:
 
 Please execute the following command for installing this software:
 
->     cd ~/SFSNet
+>     cd ~/sfsnet
 >     sh install_requirements.sh
 >     pyhton setup.py install
 >     sfsnet.py --help
