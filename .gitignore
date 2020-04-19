@@ -1,0 +1,19 @@
+## python specific
+*.pyc
+*.egg-info
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.log
+*.err
+
+## diretory ignore
+.idea/
+dataset
+tests
+working*
+log*
