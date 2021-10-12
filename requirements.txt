@@ -8,7 +8,7 @@ Pillow==6.2.0
 scipy==1.2.0
 scikit-image==0.15.0
 scikit-learn==0.21
-opencv-contrib-python==4.0.1.24
+opencv-contrib-python==4.2.0.32
 imutils==0.4.3
 dlib==19.19.0
 tensorflow-gpu==1.13.1
